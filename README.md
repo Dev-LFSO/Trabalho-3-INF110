@@ -1,4 +1,4 @@
-# 🎮 Nerd Escape  
+# 🎮 NerdMan  
 
 Um jogo desenvolvido em **C++** utilizando a biblioteca **SFML**, inspirado no clássico Pac-Man, mas com uma proposta divertida: um menino nerd precisa fugir de quatro meninas enquanto coleta itens espalhados pelo mapa.  
 
